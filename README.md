@@ -34,6 +34,7 @@ O script pode ser executado utilizando o terminal com o comando:
 
 O resultado da execução do script será apresentado no console.
 
+![exemplo_terminal](https://user-images.githubusercontent.com/86008015/177977335-69896165-746c-480f-903f-6cdf7c1d8e71.PNG)
 
 ## 👩‍💻 Autora
 
